@@ -26,7 +26,7 @@ React + Redux + Tailwind CSS, Deployment: Vercel
 
 3.Tailwind CSS: Provides a lightweight and fast UI framework.
 
-#Live Demo Link: https://expound-technivo-dashboard-by-divyapawar.vercel.app/
+#Live Demo Link: https://dataweaver-task-by-divyapawar.vercel.app/
 
 #Developer Info Name: Divya Pawar Portfolio: https://divya-pawar-portfolio.vercel.app/ 
 
